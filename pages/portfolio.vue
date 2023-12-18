@@ -2,6 +2,8 @@
     Previous clients include;
 
     <ul class="mt-5">
+        <li>📂&nbsp;&nbsp;HealthBoxHR</li>
+        <li>🏨&nbsp;&nbsp;SilverDoor Apartments</li>
         <li>🌡️&nbsp;&nbsp;Worcester Bosch</li>
         <li>🧳&nbsp;&nbsp;FirstLuggage, BagsDirect (Manchester Airport, East Midlands etc)</li>
         <li>🦆&nbsp;&nbsp;Cyber-Duck</li>
